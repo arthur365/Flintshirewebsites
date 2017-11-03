@@ -709,7 +709,8 @@
               "z-index": "auto"
             },
             "H2": {
-              "color": "#da26f0"
+              "color": "#da26f0",
+              "text-align": "center"
             }
           },
           "_name": "slider1",
@@ -725,7 +726,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": false,
             "slides": [
