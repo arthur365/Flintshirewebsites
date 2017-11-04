@@ -852,6 +852,10 @@
               "background": "linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important",
               "-webkit-transition": "0.2s background ease-in-out",
               "transition": "0.2s background ease-in-out"
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#efefef",
+              "text-align": "left"
             }
           },
           "_name": "gallery1",
@@ -872,8 +876,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576-776x576.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",

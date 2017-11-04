@@ -2006,6 +2006,10 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qxGJuroVvC .mbr-gallery-item > div > span {
+  color: #efefef;
+  text-align: left;
+}
 .cid-qxGMngN80j {
   padding-top: 90px;
   padding-bottom: 135px;
