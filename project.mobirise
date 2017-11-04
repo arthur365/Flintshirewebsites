@@ -320,7 +320,7 @@
               "text-align": "center"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "slider1",
