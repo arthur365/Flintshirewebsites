@@ -337,13 +337,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
-            "slides__autoplayInterval": "2000",
-            "slides__showBullets": true,
+            "slides__autoplay": true,
+            "slides__autoplayInterval": "8000",
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -413,24 +413,6 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" href=\"https://form.jotformeu.com/73063675454360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT ARTHUR HERE</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#000000"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
-                "customStyle2": "display-5",
-                "customStyle3": "display-7",
-                "title": "FLINTSHIRE WEBSITE DESIGN&nbsp;",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "AT FLINTSHIRE WEBSITE DESIGN PAY AS YOU GO.<br>We create professional and affordable websites that give people a reason to get in touch with you,<br><br>Why wouldn't you choose a Clever Business Website? <br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more and Arthur will show you how cost apply.\n<br>\n<br>&nbsp;TRUST<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" href=\"https://form.jotformeu.com/73063675454360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT ARTHUR HERE</a>",
-                "overlayOpacity": "0.6"
               }
             ]
           }
