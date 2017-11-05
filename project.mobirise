@@ -404,7 +404,7 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=zFD34cQxTt8",
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
