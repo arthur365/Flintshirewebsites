@@ -343,7 +343,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -396,8 +396,8 @@
                 "overlayOpacity": "0.7"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080-800x533.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/c-720x476.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
