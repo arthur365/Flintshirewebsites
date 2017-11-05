@@ -1598,24 +1598,6 @@ body {
 .cid-qxGvn4oY9x B {
   color: #c1c1c1;
 }
-.cid-qxJKu53vsQ {
-  padding-top: 75px;
-  padding-bottom: 90px;
-}
-@media (min-width: 992px) {
-  .cid-qxJKu53vsQ .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qxJKu53vsQ .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-qxJKu53vsQ .mbr-text,
-.cid-qxJKu53vsQ .mbr-section-btn {
-  color: #b1a374;
-}
 .cid-qxGv9lBIuh .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -2071,6 +2053,24 @@ body {
 .cid-qxGMngN80j .card-box .mbr-section-btn a {
   margin-top: 1rem;
   margin-bottom: 0;
+}
+.cid-qxJKu53vsQ {
+  padding-top: 75px;
+  padding-bottom: 90px;
+}
+@media (min-width: 992px) {
+  .cid-qxJKu53vsQ .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qxJKu53vsQ .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-qxJKu53vsQ .mbr-text,
+.cid-qxJKu53vsQ .mbr-section-btn {
+  color: #b1a374;
 }
 .cid-qxGPWE8PCK {
   padding-top: 30px;
