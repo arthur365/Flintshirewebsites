@@ -401,11 +401,11 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/c-720x476.jpg",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/zFD34cQxTt8",
+                "videoUrl": "https://www.youtube.com/watch?v=zFD34cQxTt8",
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-7",
