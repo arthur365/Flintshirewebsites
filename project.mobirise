@@ -382,7 +382,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1623x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -394,13 +394,13 @@
                 "title": "Arthur's IMAGE SLIDE&nbsp;",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from Arthur's large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more when you book your business website with Arthur.",
+                "text": "Choose from a large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more when you book your business website with us.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/c-720x476.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
