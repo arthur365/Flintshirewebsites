@@ -317,14 +317,15 @@
               "z-index": "auto"
             },
             "H2": {
-              "color": "#da26f0",
+              "color": "#efefef",
               "text-align": "center"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "center",
+              "color": "#efefef"
             },
             "B": {
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
           "_name": "slider1",
@@ -371,7 +372,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-4",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Evan Mobile",
                 "overlay": true,
@@ -406,13 +407,13 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=zFD34cQxTt8",
-                "customStyle1": "display-2",
-                "customStyle2": "display-4",
+                "customStyle1": "display-5",
+                "customStyle2": "display-5",
                 "customStyle3": "display-7",
                 "title": "<b>Website built 4.U </b><br><b>Shape your future web project with sharp business design and refine coded functions</b><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "View your website on your mobile phone and text to all your custermores when somthink new comes in.&nbsp;<br>Please note as from November 2017 update Cost apply from November 2017\n<br>new pics, new links, SEO, Microsoft updates, cost now apply\n<br><b>Links £15.99 each</b>// <b>Large pics £10.00 each</b> // <b>Small pics £5.00 each\n</b><br><b>Private links built £100.00 each</b> with GOOGLE SEO and more.&nbsp;<br>",
+                "text": "View your website on your mobile phone and text to all your custermores when somthink new comes in.&nbsp;<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" href=\"https://form.jotformeu.com/73063675454360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT ARTHUR HERE</a>",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#000000"
