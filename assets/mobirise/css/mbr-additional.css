@@ -1351,6 +1351,20 @@ body {
 .cid-qxJjWwIS2u H2 {
   color: #ffffff;
 }
+.cid-qxJKu53vsQ {
+  padding-top: 45px;
+  padding-bottom: 75px;
+}
+@media (min-width: 992px) {
+  .cid-qxJKu53vsQ .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qxJKu53vsQ .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qxGvn4oY9x .modal-body .close {
   background: #1b1b1b;
 }
@@ -2050,20 +2064,6 @@ body {
 .cid-qxGMngN80j .card-box .mbr-section-btn a {
   margin-top: 1rem;
   margin-bottom: 0;
-}
-.cid-qxJKu53vsQ {
-  padding-top: 45px;
-  padding-bottom: 75px;
-}
-@media (min-width: 992px) {
-  .cid-qxJKu53vsQ .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qxJKu53vsQ .mbr-figure {
-    padding-top: 3rem;
-  }
 }
 .cid-qxGPWE8PCK {
   padding-top: 30px;
