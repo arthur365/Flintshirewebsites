@@ -384,7 +384,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1623x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -417,6 +417,25 @@
                 "text": "View your website on your mobile phone and text to all your custermores when somthink new comes in.&nbsp;<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-secondary-outline\" href=\"https://form.jotformeu.com/73063675454360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US HERE</a>",
                 "overlayOpacity": "0.7",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/capture123-1559x616.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zFD34cQxTt8",
+                "customStyle1": "display-5",
+                "customStyle2": "display-5",
+                "customStyle3": "display-7",
+                "title": "<b>Website built 4.U </b><br><b>Shape your future web project with sharp business design and refine coded functions</b><br>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "View your website on your mobile phone and text to all your custermores when somthink new comes in.&nbsp;<br><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary-outline\" href=\"https://form.jotformeu.com/73063675454360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US HERE</a>",
+                "overlayOpacity": "0",
                 "overlayColor": "#000000"
               }
             ]
