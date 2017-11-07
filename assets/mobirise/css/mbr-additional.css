@@ -2079,8 +2079,8 @@ body {
   text-align: center;
 }
 .cid-qxGPWE8PCK {
-  padding-top: 75px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 .cid-qxGPWE8PCK .media-container-row {
@@ -2139,4 +2139,28 @@ body {
 .cid-qxGPWE8PCK foot-menu-item {
   text-align: right;
   color: #c1c1c1;
+}
+.cid-qAkihkA3gc {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #cc2952;
+}
+.cid-qAkihkA3gc .line {
+  background-color: #ff3366;
+  color: #ff3366;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qAkihkA3gc .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-qAkihkA3gc .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qAkihkA3gc .inner-container {
+    width: 100% !important;
+  }
 }
