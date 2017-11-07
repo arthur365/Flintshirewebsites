@@ -2031,7 +2031,7 @@ body {
 .cid-qxGMngN80j .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
-  background-color: #18130e;
+  background-color: #000000;
 }
 .cid-qxGMngN80j .card-img span {
   font-size: 100px;
@@ -2039,7 +2039,8 @@ body {
 }
 .cid-qxGMngN80j .card-box {
   padding-bottom: 2rem;
-  background-color: #18130e;
+  background-color: #000000;
+  background: linear-gradient(#000000, transparent);
 }
 .cid-qxGMngN80j .card-box .card-title {
   margin: 0;
