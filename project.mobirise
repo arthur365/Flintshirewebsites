@@ -297,7 +297,7 @@
               "color": "#efefef"
             },
             "B": {
-              "color": "#efefef"
+              "color": "#c1c1c1"
             }
           },
           "_name": "slider1",
@@ -406,7 +406,7 @@
                 "contentAlign": "center",
                 "text": "View your website on your mobile phone and text to all your custermores when somthink new comes in.&nbsp;<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary-outline\" href=\"https://form.jotformeu.com/73063675454360\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US HERE</a>",
-                "overlayOpacity": "0",
+                "overlayOpacity": "0.7",
                 "overlayColor": "#000000"
               }
             ]
