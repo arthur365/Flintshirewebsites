@@ -320,7 +320,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -338,7 +338,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/2.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -373,8 +373,8 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/c-720x476.jpg",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -392,7 +392,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/capture123-1559x616.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
