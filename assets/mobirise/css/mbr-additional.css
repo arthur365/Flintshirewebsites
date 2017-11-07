@@ -2079,7 +2079,7 @@ body {
   text-align: center;
 }
 .cid-qxGPWE8PCK {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #000000;
 }
@@ -2135,4 +2135,8 @@ body {
 }
 .cid-qxGPWE8PCK .media-container-row .row-copirayt {
   word-break: break-word;
+}
+.cid-qxGPWE8PCK foot-menu-item {
+  text-align: right;
+  color: #c1c1c1;
 }
