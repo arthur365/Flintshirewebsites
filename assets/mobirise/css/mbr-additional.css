@@ -1580,10 +1580,10 @@ body {
 }
 .cid-qxGvn4oY9x P {
   text-align: center;
-  color: #efefef;
+  color: #e4d295;
 }
 .cid-qxGvn4oY9x B {
-  color: #c1c1c1;
+  color: #efefef;
 }
 .cid-qxJjWwIS2u {
   padding-top: 30px;
@@ -1597,7 +1597,7 @@ body {
   color: #5b686b;
 }
 .cid-qxJjWwIS2u H2 {
-  color: #cccccc;
+  color: #e4d295;
 }
 .cid-qxJjWwIS2u .mbr-section-subtitle B {
   color: #efe984;
@@ -2057,6 +2057,9 @@ body {
   margin-top: 1rem;
   margin-bottom: 0;
 }
+.cid-qxGMngN80j P {
+  color: #e4d295;
+}
 .cid-qxJKu53vsQ {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -2162,5 +2165,5 @@ body {
 }
 .cid-qxGPWE8PCK foot-menu-item {
   text-align: right;
-  color: #c1c1c1;
+  color: #e4d295;
 }
