@@ -2189,3 +2189,6 @@ body {
 .cid-qApahgC1fe .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-qApahgC1fe .copyright > p {
+  text-align: right;
+}
