@@ -481,8 +481,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hir-shop-640x426.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hir-shop-640x426-640x426.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -493,8 +493,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1440x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1440x1080-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tak-away-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tak-away-640x480-640x480.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -517,12 +517,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mbr-12-1620x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-12-1620x1080-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cars-640x392.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cars-640x392-640x392.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -541,12 +541,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mbr-14-1620x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-14-1620x1080-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/th80rqfj2l-640x426.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/th80rqfj2l-640x426-640x426.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
