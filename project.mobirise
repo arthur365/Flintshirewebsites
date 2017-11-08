@@ -469,12 +469,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1748x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1748x1080-800x494.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shop-em-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shop-em-640x480-640x480.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -522,7 +522,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
